@@ -1,0 +1,19 @@
+*{
+    background-color: plum;
+}
+
+.box_model1{
+    border: 7px solid rgba(210, 105, 30, 0.664);
+    padding: 20px 30px 20px 30px;
+    margin: 50px 80px 50px 80px;
+    border-radius: 30px;
+    box-shadow: 6px 3px 4px lightskyblue;
+    box-shadow: 6px 3px 4px blue;
+}
+.box_model2{
+    border: 7px solid rgba(0, 0, 255, 0.664);
+    padding: 20px 30px 20px 30px;
+    margin: 50px 80px 50px 80px;
+    border-radius: 30px;
+    box-shadow: 6px 3px 4px chocolate;
+}
