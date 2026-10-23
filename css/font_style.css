@@ -1,0 +1,37 @@
+.heading1{
+    text-align: center;
+}
+
+.f_family1{
+    font-family: cursive;
+}
+.f_family2{
+    font-family:sans-serif;
+}
+.f_family3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.f_family4{
+    font-family:'Courier New', Courier, monospace;
+}
+.f_weight1{
+    font-weight: 200;
+}
+.f_weight2{
+    font-weight: 400;
+}
+.f_weight3{
+    font-weight: 600;
+}
+.f_weight4{
+    font-weight: 800;
+}
+.f_style1{
+    font-style: italic;
+}
+.f_style2{
+    font-style: oblique;
+}
+.f_style3{
+    font-style: normal;
+}
