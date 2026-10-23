@@ -1,11 +1,13 @@
-.heading_color1{
-    color:sienna;
-    background-color: dimgrey;
-    font-size: 75px;
+#headings{
+    color:rebeccapurple;
+    font-size: 50px;
 }
 
-.heading_color2{
-    color:rebeccapurple;
-    background-color: yellow;
-    font-size: 70px;
+.heading-color1{
+    color:rgb(49, 155, 220);
+    
+}
+
+.heading-color2{
+    color:peru;
 }
