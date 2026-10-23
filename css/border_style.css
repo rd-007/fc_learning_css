@@ -1,0 +1,44 @@
+.b_img1{
+    border: 8px solid black;
+    border-radius: 15px;
+}
+.b_img2{
+    border: 8px dotted black;
+    border-radius: 15px;
+}
+.b_img3{
+    border: 8px dashed black;
+    border-radius: 15px;
+}
+.b_img4{
+    border: 8px double black;
+    border-radius: 15px;
+}
+.b_img5{
+    border: 8px inset black;
+    border-radius: 15px;
+}
+.b_img6{
+    border: 8px outset black;
+    border-radius: 15px;
+}
+.b_img7{
+    border: 8px groove black;
+    border-radius: 15px;
+}
+.b_img8{
+    border: 8px solid black;
+    /* border-color: lightblue lightcoral lightblue lightcoral; */
+    /* border-radius: 500px; */
+    border-radius: 0px 60px 0px 60px;
+
+}
+.b_img9{
+    border: 8px solid black;
+    border-radius: 65% 0px 65% 0px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
